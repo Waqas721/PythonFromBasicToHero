@@ -1,4 +1,4 @@
-key  ="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"
+key  ="api_key"
 
 from openai import OpenAI
 client = OpenAI(api_key=key)

@@ -1,8 +1,0 @@
-file '1.jpg'
-duration 5
-file '3.jpg'
-duration 6
-file '1.jpg'
-duration 5
-file '3.jpg'
-duration 6
