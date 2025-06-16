@@ -10,7 +10,6 @@ Whether you're just getting started or brushing up your skills, this resource is
 
 This repository is organized in a progressive and easy-to-follow format, covering:
 
-- ✅ **Python Installation & Setup**
 - ✅ **Variables and Data Types**
 - ✅ **Operators and Expressions**
 - ✅ **Control Flow (if, elif, else)**
