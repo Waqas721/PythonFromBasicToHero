@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Class X - Karachi Public School</title>
+</head>
+<body>
+{# This is a comment #}
+    <ul>
+       {% for keys in marks.keys() %}
+        <li>The marks of {{keys}} is: {{marks.get(keys)}}
+        {% if marks.get(keys) >80 %}
+        <span>Good</span>
+        {% endif %}
+        </li>
+       {% endfor %}
+    
+    </ul>
+</body>
+</html>
